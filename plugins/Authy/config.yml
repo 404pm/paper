@@ -18,7 +18,7 @@ welcomeMessage:
   - '&7Welcome to &6server name&7!'
   enabled: false
 requirePin: false
-sendPinSetReminder: true
+sendPinSetReminder: false
 sessionExpiresIn: 48
 onFirstJoin:
   teleport: false
