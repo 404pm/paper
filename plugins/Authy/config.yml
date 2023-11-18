@@ -9,9 +9,9 @@ pinValidation:
   minLength: 6
   maxLength: 6
 effects:
-  title: true
-  particles: true
-  sounds: true
+  title: false
+  particles: false
+  sounds: false
   blindness: false
 welcomeMessage:
   text:
