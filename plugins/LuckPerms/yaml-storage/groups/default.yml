@@ -1,0 +1,6 @@
+name: default
+permissions:
+- authy.changepassword
+- authy.login
+- authy.register
+- authy.unregister
